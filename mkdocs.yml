@@ -1,0 +1,7 @@
+site_name: Rezepte
+site_description: 'Rezepte'
+site_author: 'Florian Sorko'
+repo_name: 'diepfote/rezepte'
+repo_url: 'https://github.com/diepfote/rezepte'
+theme:
+  name: 'readthedocs'
