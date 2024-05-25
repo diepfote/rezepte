@@ -12,4 +12,4 @@ Obers + Soda-/Mineralwasser beimengen.
 
 Salz + Pfeffer + Muskatnuss
 
-Mozarella in letzter Minute.
+Mozzarella in der letzten Minute im Ofen zugeben.
