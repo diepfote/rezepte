@@ -1,12 +1,12 @@
 # Tiramisu
 
- 60 Stk   Biskotten
-500 g     Mascarpone
-  4 Stk   Eier
-100 g     Staubzucker  --> 70g
-125 ml    Kaffee
-  2 cl    Rum
-    6 EL  Kakao zum Bestreuen
+* 60 Stk  Biskotten
+* 500 g   Mascarpone
+* 4 Stk   Eier
+* 100 g   Staubzucker  --> 70g
+* 125 ml  Kaffee
+* 2 cl    Rum
+* 6 EL    Kakao zum Bestreuen
 
 
 1) Für das Tiramisu werden zu Beginn Dotter und Eiweiß getrennt und in verschiedene Schüsseln gegeben.
