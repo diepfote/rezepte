@@ -6,7 +6,7 @@ Teig:
 
 * 150g glattes Dinkelmehl
 * 48g  kalte Butter (ehemals 75g)
-* 1 Dotter
+* (1 Ei) nur Dotter!
 * 1 Prise Salz
 * 40g Staubzucker
 
