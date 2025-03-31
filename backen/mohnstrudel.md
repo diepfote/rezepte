@@ -8,9 +8,9 @@
 * 1,5 EL Rum
 * 375 ml Milch
 
-1) Gut vermischen
-2) Erhitzen
-3) Auskühlen lassen
+1. Gut vermischen
+2. Erhitzen
+3. Auskühlen lassen
 
 ## Dampfl
 
@@ -29,12 +29,12 @@ Dampfl `+`:
 * 1 Eidotter
 * 350 g Zucker
 
-1) Dampfl + oben genanntes vermischen
-2) 30 min rasten: abgedeckt an einem warmen Ort
-3) daumendick ausrollen
-4) Füllen
-5) Einrollen
-6) auf ein zuerst befettetes, und dann bemehltes Blech legen
-7) mit Ei bestreichen
-8) bei 220°C für 1h backen
+1. Dampfl + oben genanntes vermischen
+2. 30 min rasten: abgedeckt an einem warmen Ort
+3. daumendick ausrollen
+4. Füllen
+5. Einrollen
+6. auf ein zuerst befettetes, und dann bemehltes Blech legen
+7. mit Ei bestreichen
+8. bei 220°C für 1h backen
 
