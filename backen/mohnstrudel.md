@@ -22,7 +22,7 @@
 
 * 1 Ei extra fürs Bestreichen, d.h. 2 Eier für den Teig
 
-Dampfl `+`:
+Teig \= Dampfl \+:
 
 * 250 g Mehl
 * 60 g Butter
