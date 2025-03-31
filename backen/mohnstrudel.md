@@ -9,7 +9,9 @@
 * 375 ml Milch
 
 1. Gut vermischen
+
 2. Erhitzen
+
 3. Auskühlen lassen
 
 ## Dampfl
@@ -22,7 +24,7 @@
 
 * 1 Ei extra fürs Bestreichen, d.h. 2 Eier für den Teig
 
-Teig \= Dampfl \+:
+Teig = Dampfl \+:
 
 * 250 g Mehl
 * 60 g Butter
