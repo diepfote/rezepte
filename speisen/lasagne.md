@@ -1,5 +1,7 @@
 # Lasagne
 
+Originalrezept: <https://www.gutekueche.at/lasagne-ala-italia-rezept-4000>
+
 ## Zutaten
 
 ### Sauce
@@ -23,16 +25,23 @@
 
 ## Zubereitung
 
-1) Zuerst das Faschierte zubereiten: Die Zwiebel und die Knoblauchzehe schälen,
-    kleinschneiden und in einer Pfanne mit Öl anbraten.
-    Das Faschierte hinzufügen und einige Minuten anbräunen. Die Dosentomaten zugeben,
-    mit Salz und Pfeffer würzen. 20 Minuten bei kleiner Flamme kochen lassen, öfters umrühren.
-    Mit einer Prise Oregano abrunden.
-2) Inzwischen die Bechamelsauce zubereiten: Die Butter zerlassen. Das Mehl und die Milch zufügen,
-    eine Prise Muskatnuss zugeben und unter ständigem Rühren bei kleiner Flamme kochen lassen, 
-    bis man eine nicht zu dickflüssige Bechamelsauce erhält.
-3) Nun die Lasagne schichten: Mit Lasagneplatten beginnen. Bechamelsauce nur ganz oben,
-    dann mit Käse bedecken.
-4) Dann im vorgeheizten Backofen bei 180°C Ober-/Unterhitze 20 Minuten lang überbacken. 
-    Vor dem Servieren noch ca. 10 Minuten ruhen lassen.
+1)
+Zuerst das Faschierte zubereiten: Die Zwiebel und die Knoblauchzehe schälen,
+kleinschneiden und in einer Pfanne mit Öl anbraten.
+Das Faschierte hinzufügen und einige Minuten anbräunen. Die Dosentomaten zugeben,
+mit Salz und Pfeffer würzen. 20 Minuten bei kleiner Flamme kochen lassen, öfters umrühren.
+Mit einer Prise Oregano abrunden.
+
+2)
+Inzwischen die Bechamelsauce zubereiten: Die Butter zerlassen. Das Mehl und die Milch zufügen,
+eine Prise Muskatnuss zugeben und unter ständigem Rühren bei kleiner Flamme kochen lassen,
+bis man eine nicht zu dickflüssige Bechamelsauce erhält.
+
+3)
+Nun die Lasagne schichten: Mit Lasagneplatten beginnen. Bechamelsauce nur ganz oben,
+dann mit Käse bedecken.
+
+4)
+Dann im vorgeheizten Backofen bei 180°C Ober-/Unterhitze 20 Minuten lang überbacken.
+Vor dem Servieren noch ca. 10 Minuten ruhen lassen.
 
