@@ -31,9 +31,7 @@ abkühlen lassen
 4)
 Eier, Vanillezucker und Zucker in eine Rührschüssel geben und
 mit dem Handrührgerät cremig rühren, bis der Zucker sich gelöst hat und
-nicht mehr knirscht.Eier, Vanillepaste und Zucker in eine Rührschüssel
-geben und mit dem Handrührgerät cremig rühren, bis der Zucker
-sich gelöst hat und nicht mehr knirscht
+nicht mehr knirscht.
 
 5)
 Flüssige Butter, Mehl, Backpulver und Milch hinzugeben und so kurz wie nötig unterrühren.
