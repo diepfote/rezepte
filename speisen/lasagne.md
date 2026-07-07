@@ -10,8 +10,8 @@ Originalrezept: <https://www.gutekueche.at/lasagne-ala-italia-rezept-4000>
 * 1 Stk     Knoblauchzehe
 * 1 EL  Olivenöl
 * ~500g Faschiertes
-* ~700g Dosentomaten
-* 1 Stk Zucchini
+* ~700g Dosentomaten (sollte wirklich so viel sein, damit reicht es dann für 2-3 Lagen)
+* 1 Stk Zucchini (oder anderes Gemüse)
 * 1 Prise   Salz
 * 1 Prise   Pfeffer
 * 1 Prise   Oregano
@@ -39,7 +39,7 @@ bis man eine nicht zu dickflüssige Bechamelsauce erhält.
 
 3)
 Nun die Lasagne schichten: Mit Lasagneplatten beginnen. Bechamelsauce nur ganz oben,
-dann mit Käse bedecken.
+dann mit geriebenem Mozzarella-Käse (125g / = halbes Packerl) bedecken.
 
 4)
 Dann im vorgeheizten Backofen bei 180°C Ober-/Unterhitze 20 Minuten lang überbacken.
